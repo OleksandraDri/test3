@@ -1,0 +1,25 @@
+p {         
+    color: rgb(86, 14, 163);
+    font-size: 19px;
+}   
+
+body {
+    background-color: rgb(206, 174, 198);
+  }
+
+  a {
+    color: rgb(215, 125, 90);
+  }
+
+  h1 {
+    color: green;
+    text-shadow: 2px 2px;
+    
+  }
+
+  h2 {
+    color: rgb(128, 0, 15);
+    text-shadow: 1px 1px;
+    text-decoration-line: overline underline;
+  text-decoration-color: red;
+  }
